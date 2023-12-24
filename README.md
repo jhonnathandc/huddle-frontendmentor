@@ -2,7 +2,7 @@
 
 This project is part of the challenges of [FrontEnd Mentor](https://www.frontendmentor.io/).
 
-[Access the website here.](https://skilled-frontendmentor.vercel.app/)
+[Access the website here.](https://huddle-frontendmentor-jdc.vercel.app/)
 <br>
 <br>
 [Access the challenge here.](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0)
