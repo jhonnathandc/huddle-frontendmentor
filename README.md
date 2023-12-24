@@ -5,15 +5,14 @@ This project is part of the challenges of [FrontEnd Mentor](https://www.frontend
 [Access the website here.](https://skilled-frontendmentor.vercel.app/)
 <br>
 <br>
-[Access the challenge here.](https://www.frontendmentor.io/challenges/skilled-elearning-landing-page-S1ObDrZ8q)
+[Access the challenge here.](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0)
 
 ## Demonstration
-
-![Wireframe - 1](https://user-images.githubusercontent.com/82620787/234464211-40754a03-4aa9-4b33-9203-d1175d1d6d00.png)
+![Desktop + Mobile - 5](https://github.com/jhonnathandc/huddle-frontendmentor/assets/82620787/d2cf8528-0ada-44c0-b2ef-1ca17f0fccff)
 
 ## More information
 
-Foi construído como proposto no design, utilizando:
+It was built as proposed in the design, using:
 
 - HTML
 - CSS
