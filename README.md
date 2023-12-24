@@ -1,4 +1,4 @@
-# Skilled e-Learning - FrontEnd Mentor
+# Huddle Langin Page - FrontEnd Mentor
 
 This project is part of the challenges of [FrontEnd Mentor](https://www.frontendmentor.io/).
 
